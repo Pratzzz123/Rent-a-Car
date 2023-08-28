@@ -6,6 +6,7 @@
 #include <conio.h>   // console i/o - used in getch()
 #include <dirent.h>  //directory handling
 #include "utils.h" //data from utils
+#include "selection.cpp"
 using namespace std; // standard namespace
 
 

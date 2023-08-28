@@ -1,0 +1,8 @@
+Maruti Wagon R
+Name of the model: Maruti Wagon R
+MH16CC3232
+Fuel Type: petrol
+KM Travelled: 50000
+Max speed of the car: 70
+Number of seats: 3
+Body Type: hatchback

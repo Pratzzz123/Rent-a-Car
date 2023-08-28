@@ -1,0 +1,8 @@
+Seltos
+Name of the model: Seltos
+MH20124
+Fuel Type: ev
+KM Travelled: 1234567890
+Max speed of the car: 1
+Number of seats: 12
+Body Type: SUV

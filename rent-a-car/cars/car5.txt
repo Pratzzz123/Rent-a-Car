@@ -1,0 +1,8 @@
+xyz
+Name of the model: xyz
+89273
+Fuel Type: ev
+KM Travelled: 20000
+Max speed of the car: 200
+Number of seats: 3
+Body Type: suv

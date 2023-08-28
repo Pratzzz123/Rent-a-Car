@@ -1,0 +1,8 @@
+suv
+Name of the model: suv
+700
+Fuel Type: diesel
+KM Travelled: 3456
+Max speed of the car: 180
+Number of seats: 6
+Body Type: xyz

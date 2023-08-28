@@ -1,0 +1,8 @@
+Maruti Vitara Brezza
+Name of the model: Maruti Vitara Brezza
+MH12CZ8812
+Fuel Type: ev
+KM Travelled: 20000
+Max speed of the car: 120
+Number of seats: 6
+Body Type: SUV

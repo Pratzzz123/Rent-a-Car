@@ -1,0 +1,8 @@
+Jaguar Cars XF
+Name of the model: Jaguar Cars XF
+MH11CC0933
+Fuel Type: Diesel
+KM Travelled: 42000
+Max speed of the car: 235
+Number of seats: 5
+Body Type: Sedan

@@ -1,0 +1,8 @@
+TATA Nexo
+Name of the model: TATA Nexo
+MH09YX8184
+Fuel Type: EV
+KM Travelled: 38000
+Max speed of the car: 180
+Number of seats: 5
+Body Type: SUV

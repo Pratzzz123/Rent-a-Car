@@ -1,0 +1,26 @@
+Time: 18:1:43
+
+		-------------------------INVOICE--------------------------------------------
+
+       			Rental Cars Services 		|  Invoice No. | | Date:  |
+			___________________________________________________________________
+			|--------------------------------|         | |	28/2/2023 |
+			| Customer Name:-----------------|prathamesh |
+			| Contact no.:-------------------|9075256045|
+			| Car Model :--------------------|    Seltos|
+			| Car No. :----------------------|   MH20124 |
+			| Number of days :---------------|       123 |
+			| Your Rental Amount is :--------|    246000 |
+			| Address---------------------------|      pune |
+			| GST :--------------------------|     29520 |
+			 ________________________________________________________
+
+			| Total Rental Amount is :-------|    275520 |
+			 ________________________________________________________
+			 # This is a computer generated invoce and it does not
+			 require an authorised signture #
+ 
+			######################################################
+			You are advised to pay up the amount before due date.
+			Otherwise penelty fee will be applied
+			######################################################

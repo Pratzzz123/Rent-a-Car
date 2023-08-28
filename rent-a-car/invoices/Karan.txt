@@ -1,0 +1,26 @@
+Time: 23:8:3
+
+		-------------------------INVOICE--------------------------------------------
+
+       			Rental Cars Services 		|  Invoice No. | | Date:  |
+			___________________________________________________________________
+			|--------------------------------|      			| |	27/2/2023 |
+			| Customer Name:-----------------|     Karan |
+			| Contact no.:-------------------|9087372923|
+			| Car Model :--------------------|Maruti Vitara Brezza|
+			| Car No. :----------------------|MH12CZ8812 |
+			| Number of days :---------------|         7 |
+			| Your Rental Amount is :--------|     14000 |
+			| Address---------------------------|      pune |
+			| GST :--------------------------|      1680 |
+			 ________________________________________________________
+
+			| Total Rental Amount is :-------|     15680 |
+			 ________________________________________________________
+			 # This is a computer generated invoce and it does not
+			 require an authorised signture #
+ 
+			######################################################
+			You are advised to pay up the amount before due date.
+			Otherwise penelty fee will be applied
+			######################################################
